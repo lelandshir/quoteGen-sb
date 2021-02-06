@@ -12,4 +12,6 @@ This is a simple personal project for practice with the Sass CSS preprocessor, D
 
 - always place media queries at the bottom so that they can overwrite anything else throughout code
 
-### Active pseudo-class
+### Pseudo-class
+
+- [:active psuedo class](https://developer.mozilla.org/en-US/docs/Web/CSS/:active): represents an element (such as a button) that is being activated by the user. When using a mouse, "activation" typically starts when the user presses down the primary mouse button.
