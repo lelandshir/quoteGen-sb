@@ -11,3 +11,5 @@ This is a simple personal project for practice with the Sass CSS preprocessor, D
 #### Media Queries
 
 - always place media queries at the bottom so that they can overwrite anything else throughout code
+
+### Active pseudo-class
