@@ -14,4 +14,4 @@ This is a simple personal project for practice with the Sass CSS preprocessor, D
 
 ### Pseudo-class
 
-- [:active psuedo class](https://developer.mozilla.org/en-US/docs/Web/CSS/:active): represents an element (such as a button) that is being activated by the user. When using a mouse, "activation" typically starts when the user presses down the primary mouse button.
+- [:active psuedo class](https://developer.mozilla.org/en-US/docs/Web/CSS/:active){:target="\_blank"}: represents an element (such as a button) that is being activated by the user. When using a mouse, "activation" typically starts when the user presses down the primary mouse button.
