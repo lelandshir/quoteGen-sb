@@ -4,13 +4,13 @@ This is a simple personal project for practice with the Sass CSS preprocessor, D
 
 ## Notes
 
-# IDE Shortcuts
+#### IDE Shortcuts
 
 - IDE/Word-Wrap: `alt + z`
 
-# CSS:
+## CSS:
 
-### Pseudo Classes
+#### Pseudo Classes
 
 - [:active psuedo class](https://developer.mozilla.org/en-US/docs/Web/CSS/:active): represents an element (like a button) being "activated" by a user. Typically starts on user click.
 
