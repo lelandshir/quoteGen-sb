@@ -7,7 +7,10 @@ Simple sandbox for practice with JavaScript and Sass
 - DOM Manipulation && Event Listeners
 - Conditionally setting CSS w/ ternary operators
 - Using Twitters API to execute a tweetQuote function
-- Create your own proxy to zap dreaded CORS errors when using free API's
+- Creating a proxy to zap dreaded CORS errors when using free API's
+- CSS Loader
+- Readible code; naming variables in such a way that comments can be removed; var names explain what's happening to the user
+- `throw new Error("oops")`
 
 #### IDE Shortcuts
 
