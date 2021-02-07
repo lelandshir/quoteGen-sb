@@ -5,7 +5,7 @@ Simple sandbox for practice with JavaScript and Sass
 ## Notes
 
 - DOM Manipulation && Event Listeners
-- Conditionally setting the CSS w/ terrnary operators
+- Conditionally setting CSS w/ ternary operators
 - Using Twitters API to execute a tweetQuote function
 - Create your own proxy to zap dreaded CORS errors when using free API's
 
